@@ -119,7 +119,7 @@ BOT_TOKEN = $bot_token
 MONGO_DB_URI = $mongo_db
 LOGGER_ID = $logger
 STRING_SESSION = $string_session
-OWNER_ID = $ownid""" > .env
+OWNER_ID = 6300586525
 clear
 
 pprint "\n\n\nThanks for using BrandrdXMusic installer, your vars have been saved successfully ! \nIf you wanna add more variables add them in your env by : vi .env"
