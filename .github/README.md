@@ -4,8 +4,7 @@
     ──「⛦🦋 ROHAN ✘ 𝗠𝗨𝗦𝗜𝗖 🦋⛦」──
 </h2>
 
-<p align="center">
-  <img https://graph.org/file/b5c5d15920fbb49b48aab.jpg">
+<p align="center"> https://graph.org/file/b5c5d15920fbb49b48aab.jpg">
 </p>
 
 <p align="center">
